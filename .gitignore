@@ -53,3 +53,10 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# CMake Compile Commands (tbh better generated in each machine)
+compile_commands.json
+
+# Directories
+/build
+/.cache
